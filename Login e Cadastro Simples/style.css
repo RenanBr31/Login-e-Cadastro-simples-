@@ -1,0 +1,50 @@
+html{
+    background-image: linear-gradient(bisque, blueviolet);
+    height: 100%;
+}
+
+.tela{
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto; 
+    margin-top: 150px;
+    background-image: url(img/fundo.png); 
+    border-radius: 30px;
+  
+    
+}
+
+.titulo{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 50px;
+    top: 30px;
+    color: bisque;
+}
+
+.input{
+    border-radius: 30px;
+    width: 200px;
+    height: 30px;
+    position: relative;
+    left: 10px;
+}
+
+.subtitulo{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 10px;
+    color: bisque;
+}
+
+.botao{
+    border-radius: 20px;
+    width: 100px;
+    position: relative;
+    left: 20px;
+    bottom: 10px;
+    background-color:  blueviolet;
+    color:bisque;
+}
